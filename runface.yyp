@@ -19,6 +19,7 @@
   },
   "name":"runface",
   "resources":[
+    {"id":{"name":"obj_btn_cerrar","path":"objects/obj_btn_cerrar/obj_btn_cerrar.yy",},},
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"obj_obstacle","path":"objects/obj_obstacle/obj_obstacle.yy",},},
