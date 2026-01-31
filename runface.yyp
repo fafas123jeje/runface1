@@ -32,6 +32,7 @@
     {"id":{"name":"boton_inicar","path":"sprites/boton_inicar/boton_inicar.yy",},},
     {"id":{"name":"Sprite_fondo","path":"sprites/Sprite_fondo/Sprite_fondo.yy",},},
     {"id":{"name":"Sprite_mascara_inicio","path":"sprites/Sprite_mascara_inicio/Sprite_mascara_inicio.yy",},},
+    {"id":{"name":"sprite_piso","path":"sprites/sprite_piso/sprite_piso.yy",},},
     {"id":{"name":"spritekaleb_fondo","path":"sprites/spritekaleb_fondo/spritekaleb_fondo.yy",},},
   ],
   "resourceType":"GMProject",
