@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -19,12 +19,16 @@
   },
   "name":"runface",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_button_salir","path":"objects/obj_button_salir/obj_button_salir.yy",},},
+    {"id":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},},
+    {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"room_start","path":"rooms/room_start/room_start.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
