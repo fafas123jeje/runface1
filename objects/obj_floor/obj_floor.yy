@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite_floor",
-    "path":"sprites/Sprite_floor/Sprite_floor.yy",
+    "name":"Sprito_piso",
+    "path":"sprites/Sprito_piso/Sprito_piso.yy",
   },
   "spriteMaskId":null,
   "visible":true,
