@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"SprSALTO",
+  "%Name":"SprSALTO2",
   "bboxMode":0,
   "bbox_bottom":45,
   "bbox_left":21,
@@ -23,7 +23,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"7d2c0cd9-8dee-48d0-ade6-c615469742a7","blendMode":0,"displayName":"default","isLocked":false,"name":"7d2c0cd9-8dee-48d0-ade6-c615469742a7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"SprSALTO",
+  "name":"SprSALTO2",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -35,7 +35,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"SprSALTO",
+    "%Name":"SprSALTO2",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -59,7 +59,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"SprSALTO",
+    "name":"SprSALTO2",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -71,13 +71,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"eb47825b-66a0-4321-859d-e3280129b007","path":"sprites/SprSALTO/SprSALTO.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"eb47825b-66a0-4321-859d-e3280129b007","path":"sprites/SprSALTO2/SprSALTO2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d5ea77f1-7fc1-49c7-bb50-f6247ffcff43","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d13e83ec-e8a8-437b-8a07-eeecaf9b23fd","path":"sprites/SprSALTO/SprSALTO.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d13e83ec-e8a8-437b-8a07-eeecaf9b23fd","path":"sprites/SprSALTO2/SprSALTO2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"567d27b5-e4d9-48e2-a277-99c8e863ff66","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2e7be229-5d4a-4389-90a6-246dad062688","path":"sprites/SprSALTO/SprSALTO.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2e7be229-5d4a-4389-90a6-246dad062688","path":"sprites/SprSALTO2/SprSALTO2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"38c3a081-4dce-49fb-b31d-a0cf1d7ebf8f","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
