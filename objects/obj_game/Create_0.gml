@@ -1,5 +1,4 @@
-alarm[0] = 60;
-
-score = 0;
-
-game_over = false;
+// Variables iniciales
+score = 0; // Puntaje o "distancia"
+game_over = false; // Estado del juego
+alarm[0] = 60; // Temporizador para generar obstáculos

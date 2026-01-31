@@ -1,6 +1,3 @@
-speed_x = 6;
-vsp = 0;
-gravity = 0.3;
-jump_force = -14;
-on_ground = false;
-
+// Variables iniciales
+vsp = 0; // Velocidad vertical
+on_ground = false; // Si el jugador está en el suelo o no
