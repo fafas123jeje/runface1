@@ -1,7 +1,7 @@
-// Movimiento lateral hacia la izquierda
-x -= 4;
+var w = bbox_right - bbox_left;
 
-// Regenerar el suelo cuando salga de la pantalla
-if (x + sprite_width < 0) {
-    x += sprite_width * 2; // Lo reposiciona al frente
+x -= 6;
+
+if (x + w <= 0) {
+    x += w * 2;
 }
