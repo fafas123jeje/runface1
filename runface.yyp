@@ -32,7 +32,7 @@
     {"id":{"name":"boton_inicar","path":"sprites/boton_inicar/boton_inicar.yy",},},
     {"id":{"name":"sprite_inicio_juego","path":"sprites/sprite_inicio_juego/sprite_inicio_juego.yy",},},
     {"id":{"name":"sprite_isac","path":"sprites/sprite_isac/sprite_isac.yy",},},
-    {"id":{"name":"spritekaleb","path":"sprites/spritekaleb/spritekaleb.yy",},},
+    {"id":{"name":"spritekaleb_jeje","path":"sprites/spritekaleb_jeje/spritekaleb_jeje.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
