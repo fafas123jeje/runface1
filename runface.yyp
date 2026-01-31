@@ -32,6 +32,7 @@
     {"id":{"name":"boton_inicar","path":"sprites/boton_inicar/boton_inicar.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"spritekaleb","path":"sprites/spritekaleb/spritekaleb.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
