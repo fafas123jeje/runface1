@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite_floor",
+    "path":"sprites/Sprite_floor/Sprite_floor.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
