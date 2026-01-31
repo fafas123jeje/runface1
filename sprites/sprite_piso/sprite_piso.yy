@@ -1,8 +1,8 @@
 {
   "$GMSprite":"v2",
   "%Name":"sprite_piso",
-  "bboxMode":0,
-  "bbox_bottom":127,
+  "bboxMode":2,
+  "bbox_bottom":128,
   "bbox_left":0,
   "bbox_right":127,
   "bbox_top":108,

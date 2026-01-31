@@ -28,8 +28,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"sprite_piso",
+    "path":"sprites/sprite_piso/sprite_piso.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
