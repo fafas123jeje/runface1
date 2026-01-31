@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"boton_inicar",
   "bboxMode":0,
-  "bbox_bottom":31,
+  "bbox_bottom":39,
   "bbox_left":0,
-  "bbox_right":127,
+  "bbox_right":179,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":32,
+  "height":40,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"7e79f361-0ecb-4d16-b8c1-290995cf2f3b","blendMode":0,"displayName":"default","isLocked":false,"name":"7e79f361-0ecb-4d16-b8c1-290995cf2f3b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":128,
+  "width":180,
 }
