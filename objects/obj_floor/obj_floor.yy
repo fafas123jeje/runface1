@@ -29,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sprito_piso",
-    "path":"sprites/Sprito_piso/Sprito_piso.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

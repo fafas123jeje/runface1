@@ -33,7 +33,6 @@
     {"id":{"name":"Sprite_fondo","path":"sprites/Sprite_fondo/Sprite_fondo.yy",},},
     {"id":{"name":"Sprite_mascara_inicio","path":"sprites/Sprite_mascara_inicio/Sprite_mascara_inicio.yy",},},
     {"id":{"name":"spritekaleb_fondo","path":"sprites/spritekaleb_fondo/spritekaleb_fondo.yy",},},
-    {"id":{"name":"Sprito_piso","path":"sprites/Sprito_piso/Sprito_piso.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
