@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_mascara_madera",
+    "path":"sprites/sprite_mascara_madera/sprite_mascara_madera.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
