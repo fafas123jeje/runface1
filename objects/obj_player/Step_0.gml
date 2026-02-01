@@ -9,7 +9,7 @@ if (collision_lock > 0) {
 }
 
 
-// ===== DETECTAR SUELO =====
+
 if (place_meeting(x, y + 1, obj_floor)) {
     on_ground = true;
     vsp = 0;
@@ -18,7 +18,6 @@ if (place_meeting(x, y + 1, obj_floor)) {
     on_ground = false;
 }
 
-// ===== SALTO =====
 if (keyboard_check_pressed(vk_space)) {
 
     if (on_ground) {
@@ -30,7 +29,7 @@ if (keyboard_check_pressed(vk_space)) {
     }
 }
 
-// ===== SUBIDA =====
+
 if (vsp < 0) {
     y += vsp;
     vsp += 1;
