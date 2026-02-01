@@ -19,6 +19,7 @@
   },
   "name":"runface",
   "resources":[
+    {"id":{"name":"fnt_hud","path":"fonts/fnt_hud/fnt_hud.yy",},},
     {"id":{"name":"obj_boton_iniciar","path":"objects/obj_boton_iniciar/obj_boton_iniciar.yy",},},
     {"id":{"name":"obj_btn_cerrar","path":"objects/obj_btn_cerrar/obj_btn_cerrar.yy",},},
     {"id":{"name":"obj_control_global","path":"objects/obj_control_global/obj_control_global.yy",},},
@@ -50,7 +51,7 @@
     {"id":{"name":"sprite_piso","path":"sprites/sprite_piso/sprite_piso.yy",},},
     {"id":{"name":"sprite_tronco_transicion","path":"sprites/sprite_tronco_transicion/sprite_tronco_transicion.yy",},},
     {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
-    {"id":{"name":"SprmASCARA_PERSONAJE2","path":"sprites/SprmASCARA_PERSONAJE2/SprmASCARA_PERSONAJE2.yy",},},
+    {"id":{"name":"SprMASCARA_PERSONAJE2","path":"sprites/SprMASCARA_PERSONAJE2/SprMASCARA_PERSONAJE2.yy",},},
     {"id":{"name":"SprMASCARA_PERSONAJE3","path":"sprites/SprMASCARA_PERSONAJE3/SprMASCARA_PERSONAJE3.yy",},},
     {"id":{"name":"Sprmono_hagachado","path":"sprites/Sprmono_hagachado/Sprmono_hagachado.yy",},},
     {"id":{"name":"SprMONO_MASCARA1","path":"sprites/SprMONO_MASCARA1/SprMONO_MASCARA1.yy",},},

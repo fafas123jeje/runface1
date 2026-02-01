@@ -1,3 +1,8 @@
+if (collision_lock > 0) {
+    collision_lock--;
+}
+
+
 // ===== DETECTAR SUELO =====
 if (place_meeting(x, y + 1, obj_floor)) {
     on_ground = true;
@@ -46,15 +51,15 @@ if (mask_type != "none") {
 switch (mask_type) {
 
     case "double":
-        sprite_index = spr_double;
+        sprite_index = SprMASCARA_PERSONAJE2;
         break;
 
     case "immune":
-        sprite_index = spr_immune;
+        sprite_index = SprMONO_MASCARA1;
         break;
 
     case "slow":
-        sprite_index = spr_slow;
+        sprite_index = SprMASCARA_PERSONAJE3;
         fall_speed = 2;
         break;
 

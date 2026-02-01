@@ -11,3 +11,9 @@ mask_spawn_time = irandom_range(
     room_speed * 5,
     room_speed * 8
 );
+
+
+global.difficulty = 0.5;
+global.max_difficulty = 5;
+global.world_speed = 6;
+
