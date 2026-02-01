@@ -1,3 +1,5 @@
+
+
 // aumentar dificultad con el tiempo
 global.difficulty += 0.0005; // ajustable
 
@@ -81,3 +83,28 @@ if (mask_timer >= mask_spawn_time) {
         room_speed * 20
     );
 }
+
+//transicion fea
+	
+if (global.transition_active && !instance_exists(obj_transition)) {
+
+    var t = instance_create_depth(
+        room_width + 50,
+        0,
+        -1000,
+        obj_transition
+    );
+
+    // 👇 CAMBIO IMPORTANTE AQUÍ
+    var floor_inst = instance_find(obj_floor, 0);
+    if (floor_inst != noone) {
+        t.y = floor_inst.bbox_top;
+    }
+
+    global.transition_active = false;
+}
+
+
+
+
+

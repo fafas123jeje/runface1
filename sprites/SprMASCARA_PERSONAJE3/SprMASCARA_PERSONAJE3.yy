@@ -3,7 +3,7 @@
   "%Name":"SprMASCARA_PERSONAJE3",
   "bboxMode":2,
   "bbox_bottom":46,
-  "bbox_left":12,
+  "bbox_left":22,
   "bbox_right":46,
   "bbox_top":26,
   "collisionKind":1,
