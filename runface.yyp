@@ -47,6 +47,7 @@
     {"id":{"name":"sprite_mascara_neptuno","path":"sprites/sprite_mascara_neptuno/sprite_mascara_neptuno.yy",},},
     {"id":{"name":"sprite_mascara_piedra","path":"sprites/sprite_mascara_piedra/sprite_mascara_piedra.yy",},},
     {"id":{"name":"sprite_piso","path":"sprites/sprite_piso/sprite_piso.yy",},},
+    {"id":{"name":"sprite_tronco_transicion","path":"sprites/sprite_tronco_transicion/sprite_tronco_transicion.yy",},},
     {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
     {"id":{"name":"SprmASCARA_PERSONAJE2","path":"sprites/SprmASCARA_PERSONAJE2/SprmASCARA_PERSONAJE2.yy",},},
     {"id":{"name":"SprMASCARA_PERSONAJE3","path":"sprites/SprMASCARA_PERSONAJE3/SprMASCARA_PERSONAJE3.yy",},},
