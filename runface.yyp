@@ -44,6 +44,8 @@
     {"id":{"name":"sprite_mascara_neptuno","path":"sprites/sprite_mascara_neptuno/sprite_mascara_neptuno.yy",},},
     {"id":{"name":"sprite_mascara_piedra","path":"sprites/sprite_mascara_piedra/sprite_mascara_piedra.yy",},},
     {"id":{"name":"sprite_piso","path":"sprites/sprite_piso/sprite_piso.yy",},},
+    {"id":{"name":"SprmASCARA_PERSONAJE2","path":"sprites/SprmASCARA_PERSONAJE2/SprmASCARA_PERSONAJE2.yy",},},
+    {"id":{"name":"SprMONO_MASCARA1","path":"sprites/SprMONO_MASCARA1/SprMONO_MASCARA1.yy",},},
     {"id":{"name":"sprPERSONAJE","path":"sprites/sprPERSONAJE/sprPERSONAJE.yy",},},
   ],
   "resourceType":"GMProject",

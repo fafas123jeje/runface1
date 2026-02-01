@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_mask_slow",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_mask_slow",
   "overriddenProperties":[],
@@ -9,7 +11,10 @@
     "name":"runface",
     "path":"runface.yyp",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_mask_parent",
+    "path":"objects/obj_mask_parent/obj_mask_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite_mascara_neptuno",
+    "path":"sprites/sprite_mascara_neptuno/sprite_mascara_neptuno.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
