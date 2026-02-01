@@ -17,3 +17,6 @@ global.difficulty = 0.5;
 global.max_difficulty = 5;
 global.world_speed = 6;
 
+
+
+

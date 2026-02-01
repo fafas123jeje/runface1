@@ -20,6 +20,7 @@
   "name":"runface",
   "resources":[
     {"id":{"name":"fnt_hud","path":"fonts/fnt_hud/fnt_hud.yy",},},
+    {"id":{"name":"obj_background","path":"objects/obj_background/obj_background.yy",},},
     {"id":{"name":"obj_boton_iniciar","path":"objects/obj_boton_iniciar/obj_boton_iniciar.yy",},},
     {"id":{"name":"obj_btn_cerrar","path":"objects/obj_btn_cerrar/obj_btn_cerrar.yy",},},
     {"id":{"name":"obj_control_global","path":"objects/obj_control_global/obj_control_global.yy",},},
@@ -35,6 +36,7 @@
     {"id":{"name":"obj_obstacle","path":"objects/obj_obstacle/obj_obstacle.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},},
+    {"id":{"name":"obj_transition","path":"objects/obj_transition/obj_transition.yy",},},
     {"id":{"name":"Room_game","path":"rooms/Room_game/Room_game.yy",},},
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},},
     {"id":{"name":"jeje","path":"sounds/jeje/jeje.yy",},},
