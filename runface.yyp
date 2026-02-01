@@ -46,6 +46,7 @@
     {"id":{"name":"sprite_obs_tronco","path":"sprites/sprite_obs_tronco/sprite_obs_tronco.yy",},},
     {"id":{"name":"sprite_piso","path":"sprites/sprite_piso/sprite_piso.yy",},},
     {"id":{"name":"sprite_tronco_transicion","path":"sprites/sprite_tronco_transicion/sprite_tronco_transicion.yy",},},
+    {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},},
     {"id":{"name":"sprPERSONAJE","path":"sprites/sprPERSONAJE/sprPERSONAJE.yy",},},
   ],
   "resourceType":"GMProject",
