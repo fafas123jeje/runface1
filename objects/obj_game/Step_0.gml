@@ -3,7 +3,7 @@
 
 
 if (!game_over) {
-    score += .5
+    score += 1
 }
 
 // [2] Reiniciar el juego si es "Game Over" y el jugador presiona ESPACIO
