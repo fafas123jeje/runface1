@@ -1,8 +1,8 @@
 // === MOVIMIENTO BASE ===
 on_ground = false;
 vsp = 0;
-jump_force = -17;
-fall_speed = 6;
+jump_force = -20;
+fall_speed = 9;
 
 
 // === MÁSCARAS ===
