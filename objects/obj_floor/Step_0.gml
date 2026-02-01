@@ -5,3 +5,6 @@ x -= 6;
 if (x + w <= 0) {
     x += w * 2;
 }
+
+
+x -= global.world_speed;
