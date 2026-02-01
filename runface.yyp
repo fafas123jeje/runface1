@@ -43,6 +43,7 @@
     {"id":{"name":"boton_cerrar","path":"sprites/boton_cerrar/boton_cerrar.yy",},},
     {"id":{"name":"boton_inicar","path":"sprites/boton_inicar/boton_inicar.yy",},},
     {"id":{"name":"creditos_jehe","path":"sprites/creditos_jehe/creditos_jehe.yy",},},
+    {"id":{"name":"finaljeje","path":"sprites/finaljeje/finaljeje.yy",},},
     {"id":{"name":"spr_tronco","path":"sprites/spr_tronco/spr_tronco.yy",},},
     {"id":{"name":"sprite_inicio_juego","path":"sprites/sprite_inicio_juego/sprite_inicio_juego.yy",},},
     {"id":{"name":"sprite_isac","path":"sprites/sprite_isac/sprite_isac.yy",},},
