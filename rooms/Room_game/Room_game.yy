@@ -11,7 +11,7 @@
     {"name":"inst_37E857A2","path":"rooms/Room_game/Room_game.yy",},
     {"name":"inst_21759C60","path":"rooms/Room_game/Room_game.yy",},
     {"name":"inst_13ACC03","path":"rooms/Room_game/Room_game.yy",},
-    {"name":"inst_2CBB8604","path":"rooms/Room_game/Room_game.yy",},
+    {"name":"inst_340AD71D","path":"rooms/Room_game/Room_game.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -21,7 +21,7 @@
         {"$GMRInstance":"v4","%Name":"inst_37E857A2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_37E857A2","objectId":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":12.5234375,"scaleY":5.25,"x":1600.0,"y":224.0,},
         {"$GMRInstance":"v4","%Name":"inst_21759C60","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_21759C60","objectId":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":12.5234375,"scaleY":5.25,"x":-1600.0,"y":224.0,},
         {"$GMRInstance":"v4","%Name":"inst_13ACC03","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_13ACC03","objectId":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":448.0,},
-        {"$GMRInstance":"v4","%Name":"inst_2CBB8604","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2CBB8604","objectId":{"name":"obj_mask_immune","path":"objects/obj_mask_immune/obj_mask_immune.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1440.0,"y":704.0,},
+        {"$GMRInstance":"v4","%Name":"inst_340AD71D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_340AD71D","objectId":{"name":"obj_mask_slow","path":"objects/obj_mask_slow/obj_mask_slow.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1440.0,"y":736.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_3D104128","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_3D104128","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5810909,"scaleY":0.49372613,"spriteId":{"name":"sprite_kaleb","path":"sprites/sprite_kaleb/sprite_kaleb.yy",},"x":0.0,"y":0.0,},

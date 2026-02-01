@@ -19,7 +19,7 @@ invincible = false;
 spr_normal = sprPERSONAJE;
 spr_double = SprmASCARA_PERSONAJE2;
 spr_immune = SprMONO_MASCARA1;
-spr_slow   = sprite_mascara_neptuno;
+spr_slow   = SprMASCARA_PERSONAJE3;
 
 sprite_index = spr_normal;
 
