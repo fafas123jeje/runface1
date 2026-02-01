@@ -61,3 +61,12 @@ switch (mask_type) {
     default:
         sprite_index = spr_normal;
 }
+
+if (keyboard_check(vk_down) && on_ground) {
+    image_yscale = 1;
+} else {
+    image_yscale = 2.5;
+}
+
+
+

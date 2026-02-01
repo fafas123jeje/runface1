@@ -1,14 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"obj_spawner",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_obstacle","path":"objects/obj_obstacle/obj_obstacle.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_player",
+  "name":"obj_spawner",
   "overriddenProperties":[],
   "parent":{
     "name":"runface",
@@ -32,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sprPERSONAJE",
-    "path":"sprites/sprPERSONAJE/sprPERSONAJE.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
