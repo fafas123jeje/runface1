@@ -1,5 +1,5 @@
 // [1] Dibujar el puntaje
-draw_text(32, 32, "Puntaje: " + string(score));
+draw_text(32, 32, "Puntaje: " + string(floor(score)));
 
 // [2] Mostrar mensaje de "Game Over" si el juego termina
 if (game_over) {

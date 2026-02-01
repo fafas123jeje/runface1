@@ -1,5 +1,6 @@
 if (keyboard_check_pressed(vk_escape)) {
     room_goto(room_start);
+	 with (obj_game) score = 0;
     exit;
 }
 /////////////////////////////////////////////
