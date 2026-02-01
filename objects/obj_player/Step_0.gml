@@ -1,3 +1,8 @@
+if (keyboard_check_pressed(vk_escape)) {
+    room_goto(room_start);
+    exit;
+}
+/////////////////////////////////////////////
 if (collision_lock > 0) {
     collision_lock--;
 }
