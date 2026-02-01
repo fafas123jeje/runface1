@@ -31,6 +31,7 @@
     {"id":{"name":"obj_mask_spawner","path":"objects/obj_mask_spawner/obj_mask_spawner.yy",},},
     {"id":{"name":"obj_obstacle","path":"objects/obj_obstacle/obj_obstacle.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"Object13","path":"objects/Object13/Object13.yy",},},
     {"id":{"name":"Room_game","path":"rooms/Room_game/Room_game.yy",},},
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},},
     {"id":{"name":"jeje","path":"sounds/jeje/jeje.yy",},},
