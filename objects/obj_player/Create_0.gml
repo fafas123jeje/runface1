@@ -17,8 +17,8 @@ can_double_jump = false;
 invincible = false;
 
 spr_normal = sprPERSONAJE;
-spr_double = sprPERSONAJE;
-spr_immune = sprite_mascara_piedra;
+spr_double = SprmASCARA_PERSONAJE2;
+spr_immune = SprMONO_MASCARA1;
 spr_slow   = sprite_mascara_neptuno;
 
 sprite_index = spr_normal;
