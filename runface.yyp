@@ -39,6 +39,7 @@
     {"id":{"name":"jeje","path":"sounds/jeje/jeje.yy",},},
     {"id":{"name":"boton_cerrar","path":"sprites/boton_cerrar/boton_cerrar.yy",},},
     {"id":{"name":"boton_inicar","path":"sprites/boton_inicar/boton_inicar.yy",},},
+    {"id":{"name":"jejen20","path":"sprites/jejen20/jejen20.yy",},},
     {"id":{"name":"spr_tronco","path":"sprites/spr_tronco/spr_tronco.yy",},},
     {"id":{"name":"sprite_inicio_juego","path":"sprites/sprite_inicio_juego/sprite_inicio_juego.yy",},},
     {"id":{"name":"sprite_isac","path":"sprites/sprite_isac/sprite_isac.yy",},},
