@@ -50,6 +50,7 @@
     {"id":{"name":"sprite_mascara_piedra","path":"sprites/sprite_mascara_piedra/sprite_mascara_piedra.yy",},},
     {"id":{"name":"sprite_piso","path":"sprites/sprite_piso/sprite_piso.yy",},},
     {"id":{"name":"sprite_tronco_transicion","path":"sprites/sprite_tronco_transicion/sprite_tronco_transicion.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"SprMASCARA_PERSONAJE2","path":"sprites/SprMASCARA_PERSONAJE2/SprMASCARA_PERSONAJE2.yy",},},
     {"id":{"name":"SprMASCARA_PERSONAJE3","path":"sprites/SprMASCARA_PERSONAJE3/SprMASCARA_PERSONAJE3.yy",},},
     {"id":{"name":"Sprmono_hagachado","path":"sprites/Sprmono_hagachado/Sprmono_hagachado.yy",},},
