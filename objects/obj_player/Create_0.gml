@@ -1,8 +1,8 @@
 // === MOVIMIENTO BASE ===
 on_ground = false;
 vsp = 0;
-jump_force = -17;
-fall_speed = 6;
+jump_force = -20;
+fall_speed = 9;
 
 
 // === MÁSCARAS ===
@@ -19,7 +19,7 @@ invincible = false;
 spr_normal = sprPERSONAJE;
 spr_double = SprmASCARA_PERSONAJE2;
 spr_immune = SprMONO_MASCARA1;
-spr_slow   = sprite_mascara_neptuno;
+spr_slow   = SprMASCARA_PERSONAJE3;
 
 sprite_index = spr_normal;
 
