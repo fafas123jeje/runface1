@@ -63,10 +63,13 @@ switch (mask_type) {
 }
 
 if (keyboard_check(vk_down) && on_ground) {
-    image_yscale = 1;
+    sprite_index = Sprmono_hagachado;
+    image_yscale = 1.5;
 } else {
+    sprite_index = sprPERSONAJE; // tu sprite normal
     image_yscale = 2.5;
 }
+
 
 
 
