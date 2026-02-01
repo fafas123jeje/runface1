@@ -1,3 +1,12 @@
+// aumentar dificultad con el tiempo
+global.difficulty += 0.0005; // ajustable
+
+if (global.difficulty > global.max_difficulty) {
+    global.difficulty = global.max_difficulty;
+}
+
+
+
 // ================================
 // OBTENER EL PISO
 // ================================
@@ -37,9 +46,10 @@ if (spawn_timer >= next_spawn_time) {
     spawn_timer = 0;
 
     next_spawn_time = irandom_range(
-        room_speed * 1,
-        room_speed * 3
-    );
+    room_speed * (1.2 / global.difficulty),
+    room_speed * (2.0 / global.difficulty)
+);
+
 }
 
 
@@ -67,7 +77,7 @@ if (mask_timer >= mask_spawn_time) {
     mask_timer = 0;
 
     mask_spawn_time = irandom_range(
-        room_speed * 5,
-        room_speed * 8
+        room_speed * 10,
+        room_speed * 20
     );
 }
